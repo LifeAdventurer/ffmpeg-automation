@@ -1,7 +1,9 @@
 /audio-folder/*
 /video-folder/*
 /output-folder/*
+/dump-folder/*
 
 !/audio-folder/.gitkeep
 !/video-folder/.gitkeep
 !/output-folder/.gitkeep
+!/dump-folder/.gitkeep
