@@ -1,2 +1,7 @@
-/input-folder/*
+/audio-folder/*
+/video-folder/*
 /output-folder/*
+
+!/audio-folder/.gitkeep
+!/video-folder/.gitkeep
+!/output-folder/.gitkeep
