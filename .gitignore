@@ -7,3 +7,5 @@
 !/video-folder/.gitkeep
 !/output-folder/.gitkeep
 !/dump-folder/.gitkeep
+
+__pycache__/
