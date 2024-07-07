@@ -1,6 +1,6 @@
 import subprocess
 
-def combine_audio_video(video_filepath, audio_filepath, combined_output_filepath):
+def combine_audio_and_video(audio_filepath, video_filepath, combined_output_filepath):
     subprocess.run(
         [
             "ffmpeg",
