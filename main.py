@@ -1,6 +1,7 @@
-from convert import convert_opus_to_mp3
-from combine import combine_audio_and_video
 import os
+
+from combine import combine_audio_and_video
+from convert import convert_opus_to_mp3
 
 AUDIO_FOLDER = "./audio-folder/"
 VIDEO_FOLDER = "./video-folder/"
