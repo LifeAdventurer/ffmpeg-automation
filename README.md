@@ -25,6 +25,10 @@ This project allows you to convert `.opus` audio files to `.mp3` format and then
 
 4. Check the combined video files in the `output-folder/`.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
 ## Acknowledgments
 
 - [FFmpeg](https://www.ffmpeg.org/) for providing a powerful multimedia framework.

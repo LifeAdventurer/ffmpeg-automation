@@ -3,6 +3,7 @@ name = "ffmpeg-automation"
 version = "0.1.0"
 description = ""
 authors = ["lifeadventurer <life0adventurer@gmail.com>"]
+license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
